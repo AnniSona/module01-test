@@ -1,15 +1,14 @@
-
 body {
     border: 5px double greenyellow;
     padding: 1px 15px;
     width: 700px;
 }
 h1 {
-color: blueviolet;
-background-color: rgb(131, 163, 223);
-width: 110px;
-border: 2px solid grey;
-padding: 10px 10px;
+    color: blueviolet;
+    background-color: rgb(131, 163, 223);
+    width: 110px;
+    border: 2px solid rgb(38, 37, 37);
+    padding: 10px 10px;
 }
 p {
     color: rgb(104, 186, 134);
@@ -20,12 +19,15 @@ p {
 }
 ul {
     border: 5px double;
-    background-color: bisque;
+    background-color: rgb(197, 231, 243);
     padding: 10px 20px;
     width: 380px;
-font-size: 20px;
+    font-size: 20px;
 }
-li {
-    color: blueviolet;
+ol {
+    border: 5px double;
+    background-color: rgb(197, 231, 243);
+    padding: 10px 20px;
+    width: 380px;
     font-size: 18px;
 }
